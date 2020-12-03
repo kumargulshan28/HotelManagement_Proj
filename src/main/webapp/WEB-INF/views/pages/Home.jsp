@@ -4,14 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Home</title>
 </head>
 <body>
-Welcome Booss your are in main page
-
-Hi Mr Now project has been cloned and going to deploy from the other side.
-Thanks Lead for this project
-</br>
-<a href="${pageContext.request.contextPath}/Home">Home</a>
+<h1>Welcome to home page </h1>
+<p>We will design this page latter</p>
 </body>
 </html>
