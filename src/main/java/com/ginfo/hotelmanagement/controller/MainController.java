@@ -11,5 +11,10 @@ public class MainController {
 	public String welcomePage(){
 		return "welcome";
 	}
+	
+	@RequestMapping(value="/Home",method=RequestMethod.GET)
+	public String homePage(){
+		return "Home";
+	}
 
 }
